@@ -8,6 +8,30 @@ between getting products in front of paying customers before a line of code is w
 building the software — increasingly the *agents* — that keeps those products healthy once
 they're live.
 
+### Built at Centered
+
+<table>
+  <tr>
+    <td align="center" width="200"><a href="https://honeydone.com"><img src="logos/honeydone.png" width="190" alt="HoneyDone" /></a></td>
+    <td align="center" width="200"><a href="https://kipr.app"><img src="logos/kipr.png" width="190" alt="Kipr" /></a></td>
+    <td align="center" width="200"><a href="https://hoomhouse.com"><img src="logos/hoomhouse.png" width="190" alt="Hoom House" /></a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://bloomagrows.com"><img src="logos/blooma.png" width="190" alt="Blooma Grows" /></a></td>
+    <td align="center"><a href="https://rebelcultures.com"><img src="logos/rebelcultures.png" width="190" alt="Rebel Cultures" /></a></td>
+    <td align="center"></td>
+  </tr>
+</table>
+
+| | What it is | |
+|---|---|---|
+| **HoneyDone** | Home maintenance, handled entirely by text message | [honeydone.com](https://honeydone.com) |
+| **Kipr** | GPS-verified attendance and task management for deskless teams | [kipr.app](https://kipr.app) |
+| **Hoom House** | Fieldwork supervision and BCBA credentialing, made less painful | [hoomhouse.com](https://hoomhouse.com) |
+| **Blooma Grows** | Grow food at home — reusable grow boxes and guidance that fits real life | [bloomagrows.com](https://bloomagrows.com) |
+| **Ride Like a Girl** | Cycling apparel actually designed for women | [ridelikeagirl.club](https://ridelikeagirl.club) |
+| **Rebel Cultures** | Plant tissue culture for complex propagation | [rebelcultures.com](https://rebelcultures.com) |
+
 ### How I work
 
 - **Sell first.** Demand is the only validation that costs nothing to be wrong about. Everything else is a guess with a burn rate.
