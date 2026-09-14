@@ -11,13 +11,13 @@ they're live.
 ### Built at Centered
 
 <p>
-  <a href="https://honeydone.com"><img src="logos/honeydone.png" width="200" alt="HoneyDone" /></a>
-  <a href="https://kipr.app"><img src="logos/kipr.png" width="200" alt="Kipr" /></a>
-  <a href="https://hoomhouse.com"><img src="logos/hoomhouse.png" width="200" alt="Hoom House" /></a>
+  <a href="https://honeydone.com"><img src="logos/honeydone-v2.png" width="200" alt="HoneyDone" /></a>
+  <a href="https://kipr.app"><img src="logos/kipr-v2.png" width="200" alt="Kipr" /></a>
+  <a href="https://hoomhouse.com"><img src="logos/hoomhouse-v2.png" width="200" alt="Hoom House" /></a>
 </p>
 <p>
-  <a href="https://bloomagrows.com"><img src="logos/blooma.png" width="200" alt="Blooma Grows" /></a>
-  <a href="https://rebelcultures.com"><img src="logos/rebelcultures.png" width="200" alt="Rebel Cultures" /></a>
+  <a href="https://bloomagrows.com"><img src="logos/blooma-v2.png" width="200" alt="Blooma Grows" /></a>
+  <a href="https://rebelcultures.com"><img src="logos/rebelcultures-v2.png" width="200" alt="Rebel Cultures" /></a>
 </p>
 
 | | What it is | |
