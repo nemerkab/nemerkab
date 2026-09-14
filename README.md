@@ -12,21 +12,22 @@ they're live.
 
 <p>
   <a href="https://honeydone.com"><img src="logos/honeydone-v2.png" width="200" alt="HoneyDone" /></a>
-  <a href="https://kipr.app"><img src="logos/kipr-v2.png" width="200" alt="Kipr" /></a>
+  <a href="https://app.kipr.io"><img src="logos/kipr-v3.png" width="200" alt="Kipr" /></a>
   <a href="https://hoomhouse.com"><img src="logos/hoomhouse-v2.png" width="200" alt="Hoom House" /></a>
 </p>
 <p>
   <a href="https://bloomagrows.com"><img src="logos/blooma-v2.png" width="200" alt="Blooma Grows" /></a>
   <a href="https://rebelcultures.com"><img src="logos/rebelcultures-v2.png" width="200" alt="Rebel Cultures" /></a>
+  <a href="https://alloracycling.com"><img src="logos/allora-v3.png" width="200" alt="Allora Cycling" /></a>
 </p>
 
 | | What it is | |
 |---|---|---|
 | **HoneyDone** | Home maintenance, handled entirely by text message | [honeydone.com](https://honeydone.com) |
-| **Kipr** | GPS-verified attendance and task management for deskless teams | [kipr.app](https://kipr.app) |
+| **Kipr** | Training for ABA therapists | [app.kipr.io](https://app.kipr.io) |
 | **Hoom House** | Fieldwork supervision and BCBA credentialing, made less painful | [hoomhouse.com](https://hoomhouse.com) |
 | **Blooma Grows** | Grow food at home — reusable grow boxes and guidance that fits real life | [bloomagrows.com](https://bloomagrows.com) |
-| **Ride Like a Girl** | Cycling apparel actually designed for women | [ridelikeagirl.club](https://ridelikeagirl.club) |
+| **Allora Cycling** | Cycling apparel designed for women from the pattern up | [alloracycling.com](https://alloracycling.com) |
 | **Rebel Cultures** | Plant tissue culture for complex propagation | [rebelcultures.com](https://rebelcultures.com) |
 
 ### How I work
