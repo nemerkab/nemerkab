@@ -10,18 +10,15 @@ they're live.
 
 ### Built at Centered
 
-<table>
-  <tr>
-    <td align="center" width="200"><a href="https://honeydone.com"><img src="logos/honeydone.png" width="190" alt="HoneyDone" /></a></td>
-    <td align="center" width="200"><a href="https://kipr.app"><img src="logos/kipr.png" width="190" alt="Kipr" /></a></td>
-    <td align="center" width="200"><a href="https://hoomhouse.com"><img src="logos/hoomhouse.png" width="190" alt="Hoom House" /></a></td>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://bloomagrows.com"><img src="logos/blooma.png" width="190" alt="Blooma Grows" /></a></td>
-    <td align="center"><a href="https://rebelcultures.com"><img src="logos/rebelcultures.png" width="190" alt="Rebel Cultures" /></a></td>
-    <td align="center"></td>
-  </tr>
-</table>
+<p>
+  <a href="https://honeydone.com"><img src="logos/honeydone.png" width="200" alt="HoneyDone" /></a>
+  <a href="https://kipr.app"><img src="logos/kipr.png" width="200" alt="Kipr" /></a>
+  <a href="https://hoomhouse.com"><img src="logos/hoomhouse.png" width="200" alt="Hoom House" /></a>
+</p>
+<p>
+  <a href="https://bloomagrows.com"><img src="logos/blooma.png" width="200" alt="Blooma Grows" /></a>
+  <a href="https://rebelcultures.com"><img src="logos/rebelcultures.png" width="200" alt="Rebel Cultures" /></a>
+</p>
 
 | | What it is | |
 |---|---|---|
